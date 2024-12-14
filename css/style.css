@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+@font-face {
+    font-family: sfprodisplayregular;
+    src: url(/fonts/SFPRODISPLAYREGULAR.otf);
+}
+@font-face {
+    font-family: instrumentsans ;
+    src: url(/fonts/InstrumentSans-Regular-BF645daa1019d9e.ttf);
+}
+@font-face {
+    font-family: inter;
+    src: url(/fonts/Inter-Regular.otf);
+}
+h4{
+  font-family: instrumentsans;
+  font-weight: 600;
+}
+h1{
+    font-family: sfprodisplayregular;
+    font-weight: 700;
+}
+p{
+    font-family: sfprodisplayregular;
+    font-weight: 400;
+}
+h2{
+   font-family: inter;
+   font-weight: 300; 
+}
+h3{
+    font-family: "Poppins", serif;
+    font-weight: 100;
+}
