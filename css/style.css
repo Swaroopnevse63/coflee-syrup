@@ -15,6 +15,10 @@
     font-family: inter;
     src: url(/fonts/Inter-Regular.otf);
 }
+@font-face {
+    font-family: Gilroy-medium;
+    src: url(/fonts/Gilroy-Medium.ttf);
+}
 h4{
   font-family: instrumentsans;
   font-weight: 600;
@@ -22,6 +26,10 @@ h4{
 h1{
     font-family: sfprodisplayregular;
     font-weight: 700;
+}
+h5{
+  font-family: Gilroy-medium;
+  font-weight: 400;
 }
 p{
     font-family: sfprodisplayregular;
